@@ -7,7 +7,6 @@
 ### Features
 
 <ul>
-<li>User login: Users will be able to log in, either by creating accounts in the system, or by using a third-party authentication provider (e.g. Google Authentication). All access to the site will be restricted to logged-in users.</li>
 <li>Create and edit addresses: Users will be able to store their address in the system by entering it into a list of fields.(Street, City, County, etc.)</li>
 <li>View election data: Users will be able to view when upoming elections are scheduled as well as links to official information about voting in their area.</li>
 <li>View representative and candidate data: Users will be able to view the incumbents and prospective candidates running in their area as well as links to the candidates websites, social media accounts, and other contact information.</li>
