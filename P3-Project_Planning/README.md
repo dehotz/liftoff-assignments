@@ -1,12 +1,12 @@
 
 ### Wireframes
 
-* [Index pre-login](VEA/Voter Engagement Web-App index.png)
-* [Index post-login](VEA/V-E-A index post login.png)
-* [Address Entry Form](https://github.com/dehotz/liftoff-assignments/blob/master/P3-Project_Planning/VEA/V-E-A%20Address.png)
+* [Index pre-login](VEA/VEA-index.png)
+* [Index post-login](VEA/VEA-index-post-login.png)
+* [Address Entry Form](VEA/VEA-Address.png)
 * [Candidates Section](VEA/VEA-candidates-section.png)
-* [Elections Section](VEA/V-E-A elections section.png)
-* [News Section](./VEA/V-E-A news section.png)
+* [Elections Section](VEA/VEA-elections-section.png)
+* [News Section](VEA/VEA-news-section.png)
 
 ### Project Tracker
 
