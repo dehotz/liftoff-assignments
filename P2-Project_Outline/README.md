@@ -1,4 +1,4 @@
-### Overview
+### Voter Engagement Web-App Overview
 
 <p>This project will be a tool for voters to use to assist them in getting data about elections in a given area and the respective candidates and issues. It will allow users to enter an address and see information about upcoming elections in the particular area, candidates, contact information, and recent news articles about those candidates and issues.</p>
 <p>This project is motivated by a need for voters to be able to gather the information about their representatives, candidates, and issues in one place without having search across multiple sites.</p>
